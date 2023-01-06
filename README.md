@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Athallah Bima Pratama
+1.Vidio Editing
+2.Photoshop
+3.UI/UX
+4.Copywriting
 <!--
 **athallah03/athallah03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
